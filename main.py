@@ -1,6 +1,6 @@
 import math
 var_1 = ""
-print("git works")
+
 def einai_palindromi(var_1):
     return var_1 == var_1[::-1]
 
